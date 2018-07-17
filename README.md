@@ -10,16 +10,16 @@ After running `npm i`, begin app by running "node liri" from the command line. I
 
 
 ### <a name="spotify">Spotify
-![Manager](imgs/spotify)
+![Spotify](/imgs/spotify.PNG)
 
 ### <a name="twitter">Twitter
-![Twitter](imgs/twitter)
+![Twitter](/imgs/twitter.PNG)
 
 ### <a name="omdb">OMDB
-![OMDB](imgs/omdb)
+![OMDB](/imgs/omdb.PNG)
 
 ### <a name="random">Random
-![Random](imgs/random)
+![Random](/imgs/random.PNG)
 
 The searches are locally stored and utilized when pulling at random with the `node liri do-what-it-says` command.
 
