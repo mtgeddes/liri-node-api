@@ -6,20 +6,20 @@ After running `npm i`, begin app by running "node liri" from the command line. I
 * [Spotify](#spotify)
 * [Twitter](#twitter)
 * [OMDB](#omdb)
-* [NPMs](#npm)
+* [Random](#random)
 
 
 ### <a name="spotify">Spotify
-![Manager](/imgs/spotify.png)
+![Manager](imgs/spotify)
 
 ### <a name="twitter">Twitter
-![Twitter](/imgs/twitter.png)
+![Twitter](imgs/twitter)
 
 ### <a name="omdb">OMDB
-![OMDB](/imgs/omdb.png)
+![OMDB](imgs/omdb)
 
 ### <a name="random">Random
-![Random](/imgs/random.png)
+![Random](imgs/random)
 
 The searches are locally stored and utilized when pulling at random with the `node liri do-what-it-says` command.
 
